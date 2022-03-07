@@ -8,3 +8,8 @@ The data Martha will be working with is not ideal, so it will need to be process
 
 ## Visualizations of Cryptocurrency Clusters
 
+Elbow Curve used to visualize and confirm the number of clusters that need to be made (K value):
+
+![elbow_curve.JPG](https://github.com/mathur-nikita/Cryptocurrencies/blob/main/screenshots/elbow_curve.JPG)
+
+
