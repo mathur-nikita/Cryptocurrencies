@@ -12,4 +12,14 @@ Elbow Curve used to visualize and confirm the number of clusters that need to be
 
 ![elbow_curve.JPG](https://github.com/mathur-nikita/Cryptocurrencies/blob/main/screenshots/elbow_curve.JPG)
 
+The clusters plotted using a 3D-scatter plot:
 
+![3D_scatter_plot.JPG](https://github.com/mathur-nikita/Cryptocurrencies/blob/main/screenshots/3D_scatter_plot.JPG)
+
+A table of tradable cryptocurrencies:
+
+![tradable_currencies_table.JPG](https://github.com/mathur-nikita/Cryptocurrencies/blob/main/screenshots/tradable_currencies_table.JPG)
+
+The clusters plotted using a scatter plot:
+
+![scatter_plot.JPG](https://github.com/mathur-nikita/Cryptocurrencies/blob/main/screenshots/scatter_plot.JPG)
